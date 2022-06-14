@@ -2,7 +2,7 @@ package com.company;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class UserRegistrationTest {
+public class UserRegistrationTestCase {
 
     String invalidResultExpected, invalidResultActual;
 
